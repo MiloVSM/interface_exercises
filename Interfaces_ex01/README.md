@@ -1,4 +1,4 @@
-![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/1b287dcf-092c-416b-90ac-014570ef65fa)# Interfaces
+# Interfaces
 
 Exercícios de implementação de interfaces em C#
 
