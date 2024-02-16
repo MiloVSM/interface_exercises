@@ -1,6 +1,6 @@
 ﻿namespace Interfaces_ex01.Services
 {
-    internal class BrazilTaxService {
+    internal class BrazilTaxService : ITaxService {
         public double Tax(double amount)
         {
             if (amount <= 100 )
