@@ -1,4 +1,4 @@
-# Interfaces
+![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/1b287dcf-092c-416b-90ac-014570ef65fa)# Interfaces
 
 Exercícios de implementação de interfaces em C#
 
@@ -10,8 +10,10 @@ Fazer um programa que leia os dados da locação (modelo do carro, instante inic
 
 ### Example 1:
 
-![image](https://github.com/MiloVSM/interface_exercises-/assets/101025307/fac86f5c-050e-4cee-87ec-74ae807f6bc6)
+![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/0ba1166c-df91-458d-908e-7fa527673789)
+
 
 ### Example 2:
 
-![image](https://github.com/MiloVSM/interface_exercises-/assets/101025307/887d8437-d21a-488f-8693-064be34288f7)
+![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/ced5011c-a3e1-4b26-b3cc-a7576d39b5ac)
+
