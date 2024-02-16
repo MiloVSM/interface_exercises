@@ -1,0 +1,15 @@
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\bin\Debug\net8.0\Interfaces_ex01.exe
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\bin\Debug\net8.0\Interfaces_ex01.deps.json
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\bin\Debug\net8.0\Interfaces_ex01.runtimeconfig.json
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\bin\Debug\net8.0\Interfaces_ex01.dll
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\bin\Debug\net8.0\Interfaces_ex01.pdb
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.AssemblyInfoInputs.cache
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.AssemblyInfo.cs
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.csproj.CoreCompileInputs.cache
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.sourcelink.json
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.dll
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\refint\Interfaces_ex01.dll
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.pdb
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\Interfaces_ex01.genruntimeconfig.cache
+C:\Users\Muril\source\repos\Interfaces\Interfaces_ex01\Interfaces_ex00\obj\Debug\net8.0\ref\Interfaces_ex01.dll
