@@ -9,3 +9,6 @@ Uma empresa deseja automatizar o processamento de seus contratos. O processament
 Faça um programa para ler os dados de um contrato (número do contrato, data do contrato e valor total do contrato). Em seguida, o programa deve ler o número de meses para o parcelamento do contrato, e daí gerar os registros de parcelas a serem pagas (data e valor), sendo a primeira parcela a ser paga um mês após a data do contrato, a segunda parcela dois meses após o contrato e assim por diante. Mostre os dados das parcelas na tela.
 
 ### Example 1:
+
+![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/cfc390d1-85d0-4586-b2b1-6465d3aba560)
+
