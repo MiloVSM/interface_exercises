@@ -10,5 +10,6 @@ Faça um programa para ler os dados de um contrato (número do contrato, data do
 
 ### Example 1:
 
-![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/cfc390d1-85d0-4586-b2b1-6465d3aba560)
+![image](https://github.com/MiloVSM/interface_exercises/assets/101025307/876b255a-ec06-4703-a272-79c0d43959f4)
+
 
