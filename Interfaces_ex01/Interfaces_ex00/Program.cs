@@ -9,7 +9,7 @@ namespace Interfaces_ex01
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Rental Data:");
-            Console.Write("Car model: ");
+            Console.Write("Car model: ");   
             string model = Console.ReadLine();
             Console.Write("Pickup (dd/MM/yyyy HH:mm): ");
             DateTime start = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm",CultureInfo.InvariantCulture);
